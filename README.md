@@ -1,2 +1,7 @@
-# Helloworld
-Print out "Hello World"
+//# Helloworld
+//Print out "Hello World"
+class helloworld{
+public static void main(String args[]){
+System.out.println("Hello world");
+}
+}
